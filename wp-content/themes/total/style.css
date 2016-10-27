@@ -417,7 +417,7 @@ button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-	background: #FFC107;
+	background: #c5c5c5;
 	padding: 0 20px;
     height: 40px;
 	color: #FFF;
@@ -532,7 +532,7 @@ textarea {
 ## Links
 --------------------------------------------------------------*/
 a {
-	color: #FFC107;
+	color: #c5c5c5;
 	text-decoration: none;
     transition: all 0.3s ease; 
     -moz-transition: all 0.3s ease; 
@@ -544,7 +544,7 @@ a:visited {
 }
 
 a:hover{
-	color: #FFC107;
+	color: #c5c5c5;
 }
 
 a:focus {

@@ -40,12 +40,14 @@ div.wpcf7-validation-errors {
 }
 
 span.wpcf7-not-valid-tip {
+	margin-left: 0px;
 	color: #f00;
 	font-size: 1em;
 	position: absolute;
     width: 700px;
 	display: block;
-	margin-left:210px;
+
+	
 }
 
 .use-floating-validation-tip span.wpcf7-not-valid-tip {
